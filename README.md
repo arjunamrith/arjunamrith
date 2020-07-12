@@ -2,7 +2,7 @@
 
 :construction::construction::construction::construction::construction::construction::construction::construction::construction::construction::construction:
 
-![Content loading!](https://github.com/arjunamrith/arjunamrith/loader.gif)
+![Content loading!](https://github.com/arjunamrith/arjunamrith/blob/master/loader.gif)
 
 :construction::construction::construction::construction::construction::construction::construction::construction::construction::construction::construction:
 
